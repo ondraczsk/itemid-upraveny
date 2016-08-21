@@ -1,0 +1,8 @@
+name: itemID_DoDo
+main: KaitoDoDo\ItemID\ItemID
+author: KaitoDoDo
+version: 1.1.0
+api: 
+- 1.0.0
+- 1.1.0
+- 2.0.0
